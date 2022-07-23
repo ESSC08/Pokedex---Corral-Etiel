@@ -1,0 +1,17 @@
+body {
+    background-image: url(./img/Fondo.jpg);
+}
+
+.content-form{
+    width: 40vw;
+    margin: auto auto;
+}
+.pokemon{
+    border: solid 1px rgba(228, 99, 99, 0.363);
+    height: 20vh;
+    margin: auto auto;
+}
+.info{
+    border: solid .5px rgba(255, 255, 255, 0.205);
+    border-radius: 10px;
+}
